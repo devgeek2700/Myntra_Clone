@@ -59,6 +59,14 @@ Add interactivity with JavaScript: To make your clone more interactive and dynam
 ![App Screenshot](https://github.com/devgeek2700/Myntra_Clone/blob/master/output/demo_myntra_gif.gif?raw=true)
 
 
+
+##  Myntra Clone Whole Website
+
+
+
+[My Website Video](https://drive.google.com/file/d/1yiD7Y-ZCayThn5ZRulLP2c62DgiOvuK3/view?usp=sharing)
+
+
 ## 🛠 Skills
 HTML, CSS,JavaScript ....
 
