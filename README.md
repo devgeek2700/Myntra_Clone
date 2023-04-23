@@ -60,13 +60,6 @@ Add interactivity with JavaScript: To make your clone more interactive and dynam
 
 
 
-##  Myntra Clone Whole Website
-
-
-
-[My Website Video](https://drive.google.com/file/d/1yiD7Y-ZCayThn5ZRulLP2c62DgiOvuK3/view?usp=sharing)
-
-
 ## 🛠 Skills
 HTML, CSS,JavaScript ....
 
