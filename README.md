@@ -3,7 +3,7 @@
 
 In this project we have try to Clone Myntra website. Myntra is a major Indian fashion e-commerce company. to get the idea how this big e-commerce are made , how multiple page are linke ti together & how try button is link with some functionality to make user experience more interactive.
 
-In this project we have tried to make a look alike clone of Myntra Website. With our efforts and the technology stack, that we have learned till now in Unit-2 in Masai School, we were able to clone the front end with similar looks and features.
+In this project we have tried to make a look alike clone of Myntra Website. With our efforts and the technology stack, that we have learned till now in Web Development, we were able to clone the front end with similar looks and features.
 
 Start with HTML: Start building your clone by creating the HTML structure of your website. Begin with the basic structure of your page by adding the HTML tags and elements such as headers, paragraphs, and images.
 
